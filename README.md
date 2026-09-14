@@ -93,6 +93,6 @@ Python, pandas, scikit-learn, seaborn, matplotlib, Jupyter.
 
 Notebook complet, exécuté, avec les figures et les résultats.
 
-[Voir le notebook](TP_phishing_corrige.ipynb)
+[Voir le notebook](phishing_detection.ipynb)
 
 Les données ne sont pas incluses dans le dépôt. Elles sont disponibles sur le UCI Machine Learning Repository : https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset
